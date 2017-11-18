@@ -1,6 +1,6 @@
 {
   "name": "universal-components",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "Tuija Karling",
   "license": "MIT",
@@ -36,6 +36,5 @@
     "react-dom": ">=15",
     "react-native": ">=0.42",
     "react-native-web": ">=0.0.129"
-  },
-  "dependencies": {}
+  }
 }
