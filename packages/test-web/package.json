@@ -1,9 +1,9 @@
 {
   "name": "test-web",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "dependencies": {
-    "@amyllykoski/universal-components": "^0.0.3",
+    "@amyllykoski/universal-components": "^0.0.4",
     "prop-types": "^15.6.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
