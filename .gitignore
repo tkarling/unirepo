@@ -1,2 +1,5 @@
 **/node_modules/**
 packages/universal-components/storybook-static
+.env
+.graphcoolrc
+*.log
