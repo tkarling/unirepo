@@ -1,4 +1,5 @@
 **/node_modules/**
+**/dist/**
 packages/universal-components/storybook-static
 .env
 .graphcoolrc
