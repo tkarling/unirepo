@@ -1,7 +1,5 @@
-Basic button:
-
 ```jsx
-<Container>
-  <div>Hello</div>
+<Container style={{ backgroundColor: "lightYellow" }}>
+  <div>Hello from Container</div>
 </Container>
 ```

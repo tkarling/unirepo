@@ -6,6 +6,7 @@ import {
   Text,
   TouchableOpacity
 } from "react-native";
+import { colors, fonts, PADDING } from "../styles";
 
 export default function Button({
   text,
@@ -29,15 +30,15 @@ export default function Button({
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "green",
-    borderRadius: 3,
-    padding: 8
+    backgroundColor: colors.PRIMARY,
+    borderRadius: PADDING / 2,
+    padding: PADDING
   },
   text: {
+    ...fonts.BUTTON,
     backgroundColor: "transparent",
-    color: "white",
+    color: colors.WHITE,
     fontFamily: Platform.OS === "web" ? "sans-serif" : undefined,
-    fontSize: 16,
     fontWeight: "bold",
     textAlign: "center"
   }
