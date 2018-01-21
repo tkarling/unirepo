@@ -13,6 +13,12 @@
     "@types/node" "*"
     "@types/react" "*"
 
+"@types/react-native@^0.52.1":
+  version "0.52.1"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.52.1.tgz#a39057be4c5d7c9d40e1720747310a14411ba46e"
+  dependencies:
+    "@types/react" "*"
+
 "@types/react@*", "@types/react@^16.0.34":
   version "16.0.34"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.0.34.tgz#7a8f795afd8a404a9c4af9539b24c75d3996914e"
